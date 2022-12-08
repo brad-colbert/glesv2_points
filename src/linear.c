@@ -1,3 +1,7 @@
+/*
+ *      Copyright (C) 1999-2001  Brian Paul   All Rights Reserved.
+ *      Ported to GLES2. Kristian Høgsberg <krh@bitplanet.net>
+ */
 #include "linear.h"
 #include "types.h"
 
